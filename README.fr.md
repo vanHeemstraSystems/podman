@@ -1,6 +1,6 @@
-nom du référentiel
+soumis
 
-# Nom du référentiel
+# Tamisé
 
 > Slugline
 
@@ -10,7 +10,7 @@ nom du référentiel
 -   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
 Texte
 
