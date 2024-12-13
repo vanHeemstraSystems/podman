@@ -1,6 +1,6 @@
-repositorynaam
+onderworpen
 
-# Naam van opslagplaats
+# Ingetogen
 
 > Slaklijn
 
@@ -12,7 +12,7 @@ repositorynaam
 
 **Samenvatting**
 
-Text
+Tekst
 
 ## 100 - Inleiding
 
