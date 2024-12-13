@@ -1,18 +1,18 @@
-nombre-repositorio
+subyugado
 
-# Nombre del repositorio
+# Suave
 
 > línea de bala
 
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Imágenes](./IMAGES.md)
--   [References](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Referencias](./REFERENCES.md)
+-   [Telemetria](./TELEMETRY.md)
 
-**Executive Summary**
+**Resumen ejecutivo**
 
-Text
+Texto
 
 ## 100 - Introducción
 
@@ -24,8 +24,8 @@ Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
-Ver[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - Conclusión
 
 Ver[README.md](./400/README.md)
